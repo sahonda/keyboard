@@ -1,0 +1,159 @@
+[
+  {
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX3A-L1Nx",
+    "plate": true
+  },
+  [
+    {
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "\n\nEJ\n\n\n\n\n\n\n\nESC",
+    "!\n1\nF1",
+    "@\n2\nF2",
+    "#\n3\nF3",
+    "$\n4\nF4",
+    "%\n5\nF5",
+    "^\n6\nF6",
+    {
+      "x": 1
+    },
+    "&\n7\nF7",
+    "*\n8\nF8",
+    "(\n9\nF9",
+    ")\n0\nF10",
+    "_\n-\nF11",
+    "+\n=\nF12",
+    "~\n`\nIns",
+    "\n\nDel\n\n\n\n\n\n\n\nBS"
+  ],
+  [
+    {
+      "a": 5
+    },
+    "\nHome",
+    "\nTab",
+    {
+      "a": 4
+    },
+    "\nQ",
+    {
+      "fa": [
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    "\nW\n↑\nPU",
+    "\nE",
+    "\nR",
+    "\nT",
+    {
+      "x": 1
+    },
+    "\nY",
+    "\nU",
+    "\nI",
+    "\nO",
+    "\nP\nPause",
+    "{\n[\nBrk",
+    "}\n]\nPrt",
+    "|\n\\\nScrLk"
+  ],
+  [
+    {
+      "a": 5
+    },
+    "\nPgUp",
+    {
+      "a": 4
+    },
+    "\n\nCaps\n\n\n\n\n\n\n\nCtrl",
+    "\nA\n←\nHm",
+    "\nS\n↓\nPD",
+    "\nD\n→\nEd",
+    "\nF",
+    "\nG",
+    {
+      "x": 1
+    },
+    "\nH\n←\nHm",
+    "\nJ\n↓\nPD",
+    "\nK\n↑\nPU",
+    "\nL\n→\nEd",
+    ":\n;",
+    "\"\n'",
+    {
+      "a": 5
+    },
+    "\n↲",
+    "\n↲"
+  ],
+  [
+    "\nPgDn",
+    "\nShift",
+    {
+      "a": 4
+    },
+    "\nZ",
+    "\nX",
+    "\nC",
+    "\nV",
+    "\nB",
+    {
+      "x": 1
+    },
+    "\nN",
+    "\nM",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "a": 5
+    },
+    "\nDel",
+    {
+      "a": 4
+    },
+    "\n\nPU\n\n\n\n\n\n\n\n↑",
+    {
+      "a": 5
+    },
+    "\nShift"
+  ],
+  [
+    "\nEnd",
+    "\nCtrl",
+    "\n■",
+    "\nFn",
+    "\nAlt",
+    {
+      "a": 4
+    },
+    "\n\n無変",
+    "\n\n変換",
+    {
+      "x": 1
+    },
+    "\n\nRoman",
+    "\n\n平片",
+    {
+      "a": 5
+    },
+    "\nAlt",
+    "\nFn",
+    "\nCtrl",
+    {
+      "a": 4
+    },
+    "\n\nHm\n\n\n\n\n\n\n\n←",
+    "\n\nPD\n\n\n\n\n\n\n\n↓",
+    "\n\nEd\n\n\n\n\n\n\n\n→"
+  ]
+]
